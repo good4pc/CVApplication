@@ -1,0 +1,278 @@
+{
+    "basicDetails": {
+        "name": "Prasanth Puthukkeri Chothi",
+        "designation": "iOS Developer",
+        "emailAddress": "good4pc@gmail.com",
+        "phone": "+1 (416) 319 8911",
+        "profileImage": "https://media.licdn.com/dms/image/C5603AQGM0i9u8URyxQ/profile-displayphoto-shrink_200_200/0?e=1565827200&v=beta&t=CNzPhtjIZ5uwBuWpGsUmdu6jLTy0hLyGMsObk4_o9b8"
+    },
+    "technicalSkills": [
+        "Proficient in Swift Objective C , RX Swift , Visual Format Language",
+        "Able to build iOS Applications without storyboards",
+        "Knowledge in Android, Java, OpenGL ES, Adobe Photoshop ,Autodesk Maya,Blender 3d"
+    ],
+    "professionalExperience": [
+        {
+            "designation": "iOS Consultant",
+            "companyName": "Indigo Books And Musics",
+            "currentCompany": false,
+            "startDate": "23/06/18",
+            "endDate": "15/01/19",
+            "companyUrl": "https://www.chapters.indigo.ca/en-ca/",
+            "companyLogoURl": "data:image/jpeg;base64,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",
+            "companyId": 4
+        },
+        {
+            "designation": "Software Engineer Mobile Solutions",
+            "companyName": "Fingent Technologies",
+            "currentCompany": false,
+            "startDate": "01/10/15",
+            "endDate": "08/06/18",
+            "companyUrl": "https://www.fingent.com/",
+            "companyLogoURl": "data:image/png;base64,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",
+            "companyId": 3
+        },
+        {
+            "designation": "iOS Developer",
+            "companyName": "Mfluid Mobile Apps Pvt Ltd",
+            "currentCompany": false,
+            "startDate": "11/10/12",
+            "endDate": "17/09/15",
+            "companyUrl": "",
+            "companyLogoURl": "data:image/jpeg;base64,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",
+            "companyId": 2
+        },
+        {
+            "designation": "iOS Developer",
+            "companyName": "Infotura Technologies",
+            "currentCompany": false,
+            "startDate": "31/10/11",
+            "endDate": "10/10/12",
+            "companyUrl": "https://infoturatech.com/",
+            "companyLogoURl": "data:image/jpeg;base64,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",
+            "companyId": 1
+        }
+    ],
+    "technicalExperiences": [
+        "Agile and waterfall methodologies",
+        "REST/ SOAP web services integration (JSON &amp; XML)",
+        "IoT",
+        "Bluetooth communications",
+        "Apple Push Notification Service",
+        "SQLite/Core Data database",
+        "Facebook/Twitter/Google API integration",
+        "Google/Apple Map integration",
+        "HDFC Payment Gateway Integration",
+        "PVR Cinemas API integration",
+        "Zebra printer SDK integration",
+        "ECRIO VOIP SDK integration",
+        "JIRA",
+        "Continuous Integration (Xcode Server)",
+        "Cocoapods"
+    ],
+    
+    "personalityTraits": [
+    "Strongly focused on providing an excellent user experience via clean, maintainable and performant code",
+    "Professional, personable and flexible at work",
+    "Fast learner and highly motivated"
+    ],
+    
+    "projectsHandled": [
+        {
+            "companyName": "Indigo Books And Musics",
+            "companyId": 4,
+            "projectTitle": "Cycle Count",
+            "description": "Cyclecount is used in the Indigo books and music retail stores. It counts the number of articles in a store by using a scanner",
+            "programmingLanguage": "Swift",
+            "rolesAndResponsibilities": [
+                "Development of application in Swift",
+                "Conversion of Swift 2.0 to Swift 4.0.",
+                "Did code reviews.",
+                "Unit testing.",
+                "Analyzed feature requirements.",
+                "Integrated Restful services.",
+                "Coordinated with QA team."
+            ]
+        },
+        {
+            "companyName": "Fingent Technology Solutions Pvt Ltd",
+            "companyId": 3,
+            "projectTitle": "DriveSafe (IoT Application)",
+            "description": "The DriveSafe app increases your safety by providing options to disable the ability to text, email, surf the web, play games, Tweet, post to Snapchat and Facebook, take selfies and much more while driving your vehicle. The app works in conjunction with an OBD device over Bluetooth to achieve this.",
+            "programmingLanguage": "Swift",
+            "rolesAndResponsibilities": [
+                "Interact with designers, library building teams and developed application.",
+                "Hardware integration & testing",
+                "Research and Development",
+                "Did code reviews",
+                "Did unit testing",
+                "Integrated Restful services",
+                "Coordinated with QA team and fixed issues from QA team"
+            ]
+        },
+        {
+            "companyName": "Fingent Technology Solutions Pvt Ltd",
+            "companyId": 3,
+            "projectTitle": "HDFC Smartbuy",
+            "description": "Smartbuy is an all in one app for HDFC Bank which allows users to book movie tickets, bus tickets, hotels, and air tickets easily. The app also provides exclusive offers to its registered users.",
+            "programmingLanguage": "Swift",
+            "rolesAndResponsibilities": [
+                "Interact with designers and develop application.",
+                "Did code reviews for the team members and peers.",
+                "Did unit testing of the code.",
+                "Analyzed feature requirements provided.",
+                "Coordinated with QA team for bugfixes"
+            ]
+        },
+        {
+            "companyName": "Fingent Technology Solutions Pvt Ltd",
+            "companyId": 3,
+            "projectTitle": "Rent Moji",
+            "description": "Rentmoji is a robust single source property management solution specialized for residential rental properties. It provides efficeint maintenance management with ability to detect action items and resolve any maintenance issues at the earliest. Integrate with Goolge Maps and offlene suport. This app brings vendors tenants and technicians together for better productivity",
+            "programmingLanguage": "Swift",
+            "rolesAndResponsibilities": [
+                "Interact with designers and develop application",
+                "Did code reviews for the team members and peers",
+                "Worked on improving perfomance",
+                "Analysed feature requirements",
+                "Coordinated with QA team and fixed issues from QA team."
+            ]
+        },
+        {
+            "companyName": "Mfluid Mobile Apps",
+            "companyId": 2,
+            "projectTitle": "24X7 On Focus",
+            "description": "24X7 On Focus is a life saver app. In case of an emergency or panic situation, you can alert nearby rescue centers, police stations or hospitals. The app uses background location tracking to help rescue personnel reach you at the earliest.",
+            "programmingLanguage": "Objective C",
+            "rolesAndResponsibilities": [
+                "Planning, analyse feature requirements,coding",
+                "Designing user interface",
+                "Code reviews",
+                "Unit testing.",
+                "Fixing issues from QA team.",
+                "App store submission"
+            ]
+        },
+        {
+            "companyName": "Mfluid Mobile Apps",
+            "companyId": 2,
+            "projectTitle": "M- Taxi",
+            "description": "A fast and reliable taxi booking service like Uber.",
+            "programmingLanguage": "Objective C",
+            "rolesAndResponsibilities": [
+                "Planning, analyse feature requirements",
+                "Designing user interface",
+                "Code reviews",
+                "Unit testing.",
+                "Fixing issues from QA team.",
+                "App store submission"
+            ]
+        },
+        {
+            "companyName": "Mfluid Mobile Apps",
+            "companyId": 2,
+            "projectTitle": "Mims –Al Ain",
+            "description": "Inspection app for Al Ain government inspectors. Mims helps inspectors to check schedules and track daily inspections. The app provides provision for instant receipt printing and offline update/sync.",
+            "programmingLanguage": "Objective C",
+            "rolesAndResponsibilities": [
+                "Planning, analyse feature requirements",
+                "Designing user interface",
+                "Code reviews",
+                "Unit testing.",
+                "Fixing issues from QA team.",
+                "App store submission"
+            ]
+        },
+        {
+            "companyName": "Mfluid Mobile Apps",
+            "companyId": 2,
+            "projectTitle": "Stratus",
+            "description": "Stratus provides 4g LTE real-time communication over voice, video, and SMS. The app employs ECRIO SDK for achieving this.",
+            "programmingLanguage": "Objective C",
+            "rolesAndResponsibilities": [
+                "Planning, analyse feature requirements",
+                "Designing user interface",
+                "Code reviews",
+                "Unit testing.",
+                "Fixing issues from QA team.",
+                "App store submission"
+            ]
+        },
+        {
+            "companyName": "Mfluid Mobile Apps",
+            "companyId": 2,
+            "projectTitle": "Look –It",
+            "description": "Application for instant sharing and communication which includes WebRTC rendering and hardware video encoding and decoding.",
+            "programmingLanguage": "Objective C",
+            "rolesAndResponsibilities": [
+                "Planning, analyse feature requirements",
+                "Designing user interface",
+                "Code reviews",
+                "Unit testing.",
+                "Fixing issues from QA team.",
+                "App store submission"
+            ]
+        },
+        {
+            "companyName": "Infotura Technologies",
+            "companyId": 1,
+            "projectTitle": "Canada Health",
+            "description": "A real lifesaver for people on busy schedules this app reminds the user to take his medicines on time. Users can add their prescription in the app with photos of medicines and the app will promptly remind him of it. Offline reminders and sync across devices are yet another feature of this app",
+            "programmingLanguage": "Objective C",
+            "rolesAndResponsibilities": [
+                "Planning, analyse feature requirements",
+                "Designing user interface",
+                "Code reviews",
+                "Unit testing.",
+                "Fixing issues from QA team.",
+                "App store submission"
+            ]
+        },
+        {
+            "companyName": "Infotura Technologies",
+            "companyId": 1,
+            "projectTitle": "Call Kerala",
+            "description": "A basic Telephone directory app for Kerala.",
+            "programmingLanguage": "Objective C",
+            "rolesAndResponsibilities": [
+                "Coordinating the API development team",
+                "Planning & Design.",
+                "Memory Management and profiling",
+                "Documentation",
+                "Research And Development",
+                "Collaboration with business teams.",
+                "Deploying the app"
+            ]
+        },
+        {
+            "companyName": "Infotura Technologies",
+            "companyId": 1,
+            "projectTitle": "PayRoll Keeper",
+            "description": "End to End Payroll management on the go",
+            "programmingLanguage": "Objective C",
+            "rolesAndResponsibilities": [
+                "Learning",
+                "Collaboration with business and QA teams.",
+                "Research and development.",
+                "Designing user interfaces",
+                "Development"
+            ]
+        }
+    ],
+    "academicQualification": {
+        "university": "Cochin university of science and technology",
+        "year": "2010",
+        "degreeType": "Bachelor of technology",
+        "department": "Information Technology"
+    },
+    "references": [{
+        "name": "Lee Lin",
+        "company": "Indigo Books And Musics",
+        "designation": "Manager",
+        "profilePic": "https://media.licdn.com/dms/image/C5603AQHS0I7SFHD8OQ/profile-displayphoto-shrink_800_800/0?e=1565827200&v=beta&t=1NpBFuddtinT4MiWy5COUBOe9aIgTCBBAGB6GxmLRzI",
+        "linkedinUrl": "https://www.linkedin.com/in/lee-lin-7948a861/",
+        "phone": "+1(647) 981-3273"
+    }]
+    
+    
+}
